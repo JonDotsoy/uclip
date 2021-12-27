@@ -5,6 +5,10 @@
   "main": "index.js",
   "cli": "index.js",
   "type": "module",
+  "publishConfig": {
+    "access": "public",
+    "tag": "latest"
+  },
   "scripts": {
     "build": "tsc",
     "build:watch": "tsc --watch",
