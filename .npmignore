@@ -1,0 +1,4 @@
+*.ts
+*.tgz
+.editorconfig
+tsconfig.json

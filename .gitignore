@@ -79,3 +79,4 @@ $RECYCLE.BIN/
 *.tgz
 !.editorconfig
 *.js
+!.npmignore
