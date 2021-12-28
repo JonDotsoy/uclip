@@ -58,6 +58,8 @@ async function createSessionClipboard(buff: Buffer) {
   console.log(`Was copied the following script to the clipboard:`)
   console.log(``)
   console.log(`   ${terminalScript}`)
+  console.log(``)
+  console.log(`Press Ctrl+C to exit`)
 }
 
 
