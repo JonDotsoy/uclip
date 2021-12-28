@@ -2,4 +2,8 @@
 *.tgz
 .editorconfig
 tsconfig.json
+jest.config.cjs
 CHANGELOG.md
+*.mts
+!*.mjs
+*.spec.*

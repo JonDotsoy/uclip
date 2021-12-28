@@ -1,0 +1,6 @@
+Usage: <command> | uclip [options]
+       uclip [options] file
+
+Options:
+  -H, --header <header>  Pass the specified header to the output server.
+  -h, --help             Show this help message and exit.
