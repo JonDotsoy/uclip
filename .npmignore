@@ -2,3 +2,4 @@
 *.tgz
 .editorconfig
 tsconfig.json
+CHANGELOG.md
